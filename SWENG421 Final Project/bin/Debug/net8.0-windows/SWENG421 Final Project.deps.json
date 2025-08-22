@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SWENG421 Final Project/1.0.0": {
+        "runtime": {
+          "SWENG421 Final Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SWENG421 Final Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

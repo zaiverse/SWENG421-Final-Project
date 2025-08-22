@@ -1,0 +1,57 @@
+D:\Scooo\Current Classes\SWENG421\Final Project\SWENG421 Final Project\SWENG421 Final Project\bin\Debug\net8.0-windows\SWENG421 Final Project.exe
+D:\Scooo\Current Classes\SWENG421\Final Project\SWENG421 Final Project\SWENG421 Final Project\bin\Debug\net8.0-windows\SWENG421 Final Project.deps.json
+D:\Scooo\Current Classes\SWENG421\Final Project\SWENG421 Final Project\SWENG421 Final Project\bin\Debug\net8.0-windows\SWENG421 Final Project.runtimeconfig.json
+D:\Scooo\Current Classes\SWENG421\Final Project\SWENG421 Final Project\SWENG421 Final Project\bin\Debug\net8.0-windows\SWENG421 Final Project.dll
+D:\Scooo\Current Classes\SWENG421\Final Project\SWENG421 Final Project\SWENG421 Final Project\bin\Debug\net8.0-windows\SWENG421 Final Project.pdb
+D:\Scooo\Current Classes\SWENG421\Final Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.csproj.GenerateResource.cache
+D:\Scooo\Current Classes\SWENG421\Final Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Scooo\Current Classes\SWENG421\Final Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.AssemblyInfoInputs.cache
+D:\Scooo\Current Classes\SWENG421\Final Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.AssemblyInfo.cs
+D:\Scooo\Current Classes\SWENG421\Final Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.csproj.CoreCompileInputs.cache
+D:\Scooo\Current Classes\SWENG421\Final Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.dll
+D:\Scooo\Current Classes\SWENG421\Final Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\refint\SWENG421 Final Project.dll
+D:\Scooo\Current Classes\SWENG421\Final Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.pdb
+D:\Scooo\Current Classes\SWENG421\Final Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.genruntimeconfig.cache
+D:\Scooo\Current Classes\SWENG421\Final Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\ref\SWENG421 Final Project.dll
+D:\Scooo\Current Classes\SWENG421\Final Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421_Final_Project.CreatingFrame.resources
+D:\Scooo\Current Classes\SWENG421\Final Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421_Final_Project.DesigningFrame.resources
+D:\Scooo\Current Classes\SWENG421\Final Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421_Final_Project.PayingFrame.resources
+D:\Scooo\Current Classes\SWENG421\Final Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421_Final_Project.SearchingFrame.resources
+C:\Users\zaiverse\Downloads\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421_Final_Project.CreatingFrame.resources
+C:\Users\zaiverse\Downloads\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421_Final_Project.DesigningFrame.resources
+C:\Users\zaiverse\Downloads\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421_Final_Project.PayingFrame.resources
+C:\Users\zaiverse\Downloads\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421_Final_Project.SearchingFrame.resources
+C:\Users\zaiverse\Downloads\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.csproj.GenerateResource.cache
+C:\Users\zaiverse\Downloads\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaiverse\Downloads\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.AssemblyInfoInputs.cache
+C:\Users\zaiverse\Downloads\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.AssemblyInfo.cs
+C:\Users\zaiverse\Downloads\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.csproj.CoreCompileInputs.cache
+C:\Users\zaiverse\Downloads\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.dll
+C:\Users\zaiverse\Downloads\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\refint\SWENG421 Final Project.dll
+C:\Users\zaiverse\Downloads\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.pdb
+C:\Users\zaiverse\Downloads\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\bin\Debug\net8.0-windows\SWENG421 Final Project.exe
+C:\Users\zaiverse\Downloads\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\bin\Debug\net8.0-windows\SWENG421 Final Project.deps.json
+C:\Users\zaiverse\Downloads\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\bin\Debug\net8.0-windows\SWENG421 Final Project.runtimeconfig.json
+C:\Users\zaiverse\Downloads\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\bin\Debug\net8.0-windows\SWENG421 Final Project.dll
+C:\Users\zaiverse\Downloads\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\bin\Debug\net8.0-windows\SWENG421 Final Project.pdb
+C:\Users\zaiverse\Downloads\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.genruntimeconfig.cache
+C:\Users\zaiverse\Downloads\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\ref\SWENG421 Final Project.dll
+C:\Users\Ryan Truax\Desktop\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\bin\Debug\net8.0-windows\SWENG421 Final Project.exe
+C:\Users\Ryan Truax\Desktop\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\bin\Debug\net8.0-windows\SWENG421 Final Project.deps.json
+C:\Users\Ryan Truax\Desktop\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\bin\Debug\net8.0-windows\SWENG421 Final Project.runtimeconfig.json
+C:\Users\Ryan Truax\Desktop\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\bin\Debug\net8.0-windows\SWENG421 Final Project.dll
+C:\Users\Ryan Truax\Desktop\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\bin\Debug\net8.0-windows\SWENG421 Final Project.pdb
+C:\Users\Ryan Truax\Desktop\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421_Final_Project.CreatingFrame.resources
+C:\Users\Ryan Truax\Desktop\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421_Final_Project.DesigningFrame.resources
+C:\Users\Ryan Truax\Desktop\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421_Final_Project.PayingFrame.resources
+C:\Users\Ryan Truax\Desktop\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421_Final_Project.SearchingFrame.resources
+C:\Users\Ryan Truax\Desktop\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.csproj.GenerateResource.cache
+C:\Users\Ryan Truax\Desktop\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan Truax\Desktop\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.AssemblyInfoInputs.cache
+C:\Users\Ryan Truax\Desktop\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.AssemblyInfo.cs
+C:\Users\Ryan Truax\Desktop\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Truax\Desktop\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.dll
+C:\Users\Ryan Truax\Desktop\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\refint\SWENG421 Final Project.dll
+C:\Users\Ryan Truax\Desktop\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.pdb
+C:\Users\Ryan Truax\Desktop\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\SWENG421 Final Project.genruntimeconfig.cache
+C:\Users\Ryan Truax\Desktop\SWENG421_Final_Project\SWENG421 Final Project\SWENG421 Final Project\obj\Debug\net8.0-windows\ref\SWENG421 Final Project.dll
